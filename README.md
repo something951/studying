@@ -1,2 +1,2 @@
 # studying
-study Github
+## study Github is so hard
